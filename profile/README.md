@@ -4,4 +4,7 @@ The Center for the Transformation of Chemistry (CTC) is Germany’s first resear
  
 The team will collaborate on two visionary moonshots for chemistry: the autonomous laboratory and the completely recyclable car. With facilities in Delitzsch (Saxony) and Merseburg (Saxony-Anhalt), the CTC will contribute to the structural transformation of Central Germany. The shareholders of the CTC are the Federal Republic of Germany, the Free State of Saxony, and the State of Saxony-Anhalt.
  
-More details on the CTC research mission, thematic areas, research groups and pilot projects can be found here: https://transforming-chemistry.org/en/research/
+More details on the CTC research mission, thematic areas, research groups and pilot projects can be found here: https://transforming-chemistry.org/en/research/.
+
+If you want to shape the future of chemistry and become part of our Talent Factory have a look here: https://transforming-chemistry.org/en/career/.
+
